@@ -21,8 +21,8 @@ namespace UnitTestProject1
                 Header = new NongHyupApi.Models.SenderHeader
                 {
                     ApiNm = StringEnum.GetStringValue(NongHyupApi.ApiNmCode.CheckOpenFinAccount),
-                    Trtm = now.ConvertDateFormat(DateHelperFormat.YYYYMMDD),
-                    Tsymd = now.ConvertDateFormat(DateHelperFormat.HHMMSS),
+                    Trtm = now.ConvertDateToString(ConvertFormat.YYYYMMDD),
+                    Tsymd = now.ConvertDateToString(ConvertFormat.HHMMSS),
                     Iscd = "000058",
                     FintechApsno = "002",
                     ApiSvcCd = "DrtrA",
