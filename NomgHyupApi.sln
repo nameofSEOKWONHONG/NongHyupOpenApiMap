@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NongHyupApi", "NongHyupApi.csproj", "{16AA18C2-DBE6-484F-BF70-44D02C65F147}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NongHyupOpenApi", "NongHyupOpenApi.csproj", "{16AA18C2-DBE6-484F-BF70-44D02C65F147}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{F19003CB-2656-4BFA-9C26-567661245960}"
 EndProject

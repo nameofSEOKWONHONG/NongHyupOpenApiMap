@@ -7,8 +7,8 @@
     <ProjectGuid>{16AA18C2-DBE6-484F-BF70-44D02C65F147}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NongHyupApi</RootNamespace>
-    <AssemblyName>NongHyupApi</AssemblyName>
+    <RootNamespace>NongHyupOpenApi</RootNamespace>
+    <AssemblyName>NongHyupOpenApi</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -49,7 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Enums\CommonCode.cs" />
-    <Compile Include="Models\NongHyupApiModel.cs" />
+    <Compile Include="Models\ApiModel.cs" />
     <Compile Include="NongHyupApiMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

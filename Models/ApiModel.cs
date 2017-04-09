@@ -1,4 +1,4 @@
-﻿namespace NongHyupApi.Models
+﻿namespace NongHyupOpenApi.Models
 {
     /// <summary>
     /// 공통 전송 해더

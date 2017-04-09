@@ -58,9 +58,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NongHyupApi.csproj">
+    <ProjectReference Include="..\NongHyupOpenApi.csproj">
       <Project>{16aa18c2-dbe6-484f-bf70-44d02c65f147}</Project>
-      <Name>NongHyupApi</Name>
+      <Name>NongHyupOpenApi</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

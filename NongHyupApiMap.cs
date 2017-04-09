@@ -3,16 +3,15 @@ using System;
 using System.Net.Http;
 using System.Text;
 
-namespace NongHyupApi
+namespace NongHyupOpenApi
 {
     public class ApiClient
         //<TSedner, TReceiver>
         //where TSedner : class
         //where TReceiver : class
-    {
+    {        
         public string OptUrl { get; set; }
-
-        public ApiClient() { }
+        
         public ApiClient(string optUrl) {
             this.OptUrl = optUrl;
         }

@@ -1,11 +1,6 @@
 ﻿using JWLibrary.Core.StringToEnum;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace NongHyupApi
+namespace NongHyupOpenApi
 {
     /// <summary>
     /// 통신사 구분코드
